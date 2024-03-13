@@ -1,2 +1,2 @@
 # Ocaml
-Premier defi de prog
+Voici mon premier défi de programmation au travers d'Ocaml
